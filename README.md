@@ -6,9 +6,7 @@
  
  * [Bonus - Come realizzare una blockchain](https://github.com/exedre/2018-corso-python/blob/master/materials/Notebooks/Chapter%201/Examples/Come%20costruire%20una%20blockchain.ipynb)
  
- 
- 
-# Piattafome e Siti su Python
+ # Piattafome e Siti su Python
 
  * [Python For Beginners](https://www.python.org/about/gettingstarted/)
  * [Introduction to Programming with Python](https://opentechschool.github.io/python-beginners/en/)
@@ -31,3 +29,5 @@
 
 
  
+* [Form di raccolta degli interessi dei partecipanti](https://goo.gl/forms/H0PQtI5wJfnV7HyD2)
+
