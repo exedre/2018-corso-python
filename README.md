@@ -31,3 +31,18 @@
  
 * [Form di raccolta degli interessi dei partecipanti](https://goo.gl/forms/H0PQtI5wJfnV7HyD2)
 
+
+# Bibliografia 
+
+Tutti disponibili su [Safari Books Online](https://www.safaribooksonline.com/home/) 
+
+1. [Data Science from Scratch](https://www.safaribooksonline.com/library/view/data-science-from/9781491901410/) by Joel Grus Published O'Reilly Media, Inc., 2015
+2. [Jupyter for Data Science](https://www.safaribooksonline.com/library/view/jupyter-for-data/9781789130799/) by Dan Toomey Packt Publishing, 2017
+3. [Learning IPython for Interactive Computing and Data Visualization - Second Edition](https://www.safaribooksonline.com/library/view/learning-ipython-for/9781783986989/) by Cyrille Rossant Packt Publishing, 2015
+4. [SciPy and NumPy](https://www.safaribooksonline.com/library/view/scipy-and-numpy/9781449361600/) by Eli Bressert O'Reilly Media, Inc., 2012
+5. [Learning SciPy for Numerical and Scientific Computing - Second Edition](https://www.safaribooksonline.com/library/view/learning-scipy-for/9781783987702/) by Sergio J. Rojas G.; Erik A Christensen; Francisco J. Blanco-Silva Packt Publishing, 2015
+6. [Python for Data Analysis, 2nd Edition](https://www.safaribooksonline.com/library/view/python-for-data/9781491957653/) by William Wesley McKinney O'Reilly Media, Inc., 2017
+7. [Python Data Analysis - Second Edition](https://www.safaribooksonline.com/library/view/python-data-analysis/9781787127487/) by Armando Fandango Packt Publishing March 2017
+8. [Natural Language Processing with Python](https://www.safaribooksonline.com/library/view/natural-language-processing/9781787286085/) by Edward Loper, Steven Bird, Ewan Klein O'Reilly Media, Inc. June 2009
+9. [Python Natural Language Processing](https://www.safaribooksonline.com/library/view/python-natural-language/9781787121423/) by Jalaj Thanaki Packt Publishing, 2017
+10.[Programming the Semantic Web](https://www.safaribooksonline.com/library/view/programming-the-semantic/9780596802141/) by Toby Segaran , Colin Evans , Jamie Taylor O'Reilly Media, Inc. July 2009
