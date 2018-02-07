@@ -25,7 +25,7 @@
  * [Courses on Python on Coursera](https://www.coursera.org/courses?languages=en&query=python)
  * Mit Open Courseware
    * [A Gentle Introduction to Programming Using Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/)
-   
+ * [Su pandas](http://nbviewer.jupyter.org/github/jvns/pandas-cookbook/tree/master/)
 
 
  
